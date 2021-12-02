@@ -1,0 +1,781 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://tirthankar-ghosal.github.io/ArgMin/argmin-scholarly-survey.html
+Subject: 
+Date: Thu, 2 Dec 2021 11:02:37 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--XJmChwl5e45UkLt2OAKSOjZA0hYEt2EqUPbe25K6kJ----"
+
+
+------MultipartBoundary--XJmChwl5e45UkLt2OAKSOjZA0hYEt2EqUPbe25K6kJ----
+Content-Type: text/html
+Content-ID: <frame-CB62587CB66C2BFCB0CDD2D4033C02B7@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://tirthankar-ghosal.github.io/ArgMin/argmin-scholarly-survey.html
+
+<!DOCTYPE html><html wtx-context=3D"8C19A904-1177-479A-82FC-E684CEAFBD69"><=
+head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-=
+8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-74a0adfa-d868=
+-421c-82ea-fc9e503d9db7@mhtml.blink" />
+
+</head>
+<body>
+
+<table style=3D"width:100%">
+  <caption>Table 1: Argumentation Mining Literature on Scientific Discourse=
+=20
+</caption>
+  <tbody><tr>
+    <th>Reference </th>
+    <th>Domain </th>
+<th>Objectives=20
+ </th>
+    <th>Methods=20
+ </th>
+<th>Additional Contribution=20
+ </th>
+   =20
+  </tr>
+  <tr>
+    <th colspan=3D"5"> <center> Manual Argument Analysis</center> </th>
+          =20
+  </tr>
+  <tr>
+    <td>Nancy L Green. 2015b.<a href=3D"https://ieeexplore.ieee.org/documen=
+t/7359807"> Annotating evidence-based
+argumentation in biomedical text.</a> In 2015 IEEE
+International Conference on Bioinformatics and
+Biomedicine (BIBM), pages 922=E2=80=93929. IEEE.</td>
+    <td>Biomedical articles</td>
+    <td>Analyzed evidence based arguments in four full-text articles on gen=
+etic variants that may cause human health problems and created a preliminar=
+y catalog of argumentation schemes</td>
+    <td></td>
+    <td></td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Nancy Green. 2017a. <a href=3D"https://www.aclweb.org/anthology/W17=
+-5109/">Manual identification of arguments with implicit conclusions using =
+semantic rules
+for argument mining.</a> In Proceedings of the 4th
+Workshop on Argument Mining, pages 73=E2=80=9378.</td>
+    <td>Biomedical articles</td>
+    <td>Evaluate human analysts=E2=80=99 ability to identify the argumentat=
+ion scheme and premises of an argument having an implicit conclusion</td>
+    <td></td>
+    <td></td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Nancy L Green. 2018b.<a href=3D"https://content.iospress.com/articl=
+es/argument-and-computation/aac038"> Towards mining scientific discourse us=
+ing argumentation schemes. </a> Argument &amp;
+Computation, 9(2):121=E2=80=93135.</td>
+    <td>Biomedical research articles</td>
+    <td>Explores how arguments in a research article occur within a narrati=
+ve of sci- entific discovery and how they are re- lated to each other</td>
+    <td></td>
+    <td></td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Nancy Green. 2018a.<a href=3D"https://www.aclweb.org/anthology/W18-=
+5213/"> Proposed method for annotation
+of scientific arguments in terms of semantic relations
+and argument schemes.</a> In Proceedings of the 5th
+Workshop on Argument Mining, pages 105=E2=80=93110.</td>
+    <td>Biomedical Genetics articles</td>
+    <td>Provide a method for semantic rep- resentation of arguments that ca=
+n be used in empirical studies of scientific discourse as well as to suppor=
+t appli- cations such as argument mining</td>
+    <td></td>
+    <td></td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Heather Graves, Roger Graves, Robert E Mercer, and
+Mahzereen Akter. 2014.<a href=3D"https://www.aclweb.org/anthology/W14-2113/=
+"> Titles that announce argumentative claims in biomedical research article=
+s. </a> In
+Proceedings of the First Workshop on Argumentation Mining, pages 98=E2=80=
+=9399.</td>
+    <td>Biomedical articles</td>
+    <td>Analyses article title as a potential source of claims and finds th=
+at fre- quency of verbs in titles of experimen- tal research articles has i=
+ncreased over time</td>
+    <td></td>
+    <td></td>
+   =20
+  </tr>
+ <tr>
+    <th colspan=3D"5"> <center> Corpus Creation and New Annotation Schemes<=
+/center> </th>
+          =20
+  </tr>=20
+ =20
+ <tr>
+    <td>Nancy Green. 2014.<a href=3D"https://www.aclweb.org/anthology/W14-2=
+102/"> Towards creation of a corpus for
+argumentation mining the biomedical genetics research literature. </a> In P=
+roceedings of the first workshop on argumentation mining, pages 11=E2=80=93=
+18.</td>
+    <td>Biomedical Genetics articles</td>
+    <td>Argument annotation scheme: Premise (Data, Warrant) and Conclu- sio=
+n</td>
+    <td></td>
+    <td>Theoretical challenges to cre- ate an argument corpora</td>
+   =20
+  </tr>
+ =20
+
+ =20
+  <tr>
+    <td>Nancy Green. 2015a. <a href=3D"https://www.aclweb.org/anthology/W15=
+-0502/">Identifying argumentation
+schemes in genetics research articles.</a> In Proceedings of the 2nd Worksh=
+op on Argumentation Mining,
+pages 12=E2=80=9321.</td>
+    <td>Biomedical Genetics articles</td>
+    <td>Identification of argumentation schemes with specification of ten s=
+emantically distinct argumentation schemes</td>
+    <td></td>
+    <td>Annotation guidelines for ar- gumentation corpora</td>
+   =20
+  </tr>
+    <tr>
+    <td>Simone Teufel and Marc Moens. 1999. <a href=3D"https://www.aclweb.o=
+rg/anthology/W99-0311.pdf"> Discourselevel argumentation in scientific arti=
+cles: human and
+automatic annotation. </a> In Towards Standards and
+Tools for Discourse Tagging.</td>
+    <td>Chemistry, Com- putational Lin- guistics</td>
+    <td>Detect argument zones in scientific ar- ticles</td>
+    <td>Proposed a scheme and annotated 15 argument zone categories for 39 =
+papers (5,374 sentences)</td>
+    <td></td>
+   =20
+  </tr>
+  <tr>
+    <td>Christian Kirschner, Judith Eckle-Kohler, and Iryna
+Gurevych. 2015. <a href=3D"https://www.aclweb.org/anthology/W15-0501/"> Lin=
+king the thoughts: Analysis
+of argumentation structures in scientific publications.</a>
+In Proceedings of the 2nd Workshop on Argumentation Mining, pages 1=E2=80=
+=9311.</td>
+    <td>Scientific articles (Educational and Developmental Psychology)</td>
+    <td>New annotation scheme to identify argumentative relations - support=
+, at- tack, detail, sequence</td>
+    <td></td>
+    <td>Study of the annotation strat- egy across 24 articles, an anno- tat=
+ion tool, a new graph-based inter-annotation measure</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Anne Lauscher, Goran Glava=C5=A1, and Simone Paolo
+Ponzetto. 2018b. <a href=3D"https://www.aclweb.org/anthology/W18-5206/"> An=
+ argument-annotated corpus of
+scientific publications. </a>In Proceedings of the 5th
+Workshop on Argument Mining, pages 40=E2=80=9346.</td>
+    <td>Computer Graph- ics scientific pub- lications</td>
+    <td>Proposed a new argument-annotated dataset of scientific publication=
+s</td>
+    <td>Adapted Toulmin=E2=80=99s model for argumentative components: Back-=
+ ground Claim, Own Claim, Data. Relation between argumentative components: =
+support, contradicts, same claim</td>
+    <td>Investigation on link between argumentative nature of scien- tific =
+publications and rhetori- cal aspects such as discourse categories or citat=
+ion contexts.</td>
+   =20
+
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Mohammed Alliheedi, Robert E Mercer, and Robin Cohen. 2019.<a href=
+=3D"https://www.aclweb.org/anthology/W19-4514/"> Annotation of rhetorical m=
+oves in biochemistry articles. </a> In Proceedings of the 6th Workshop on A=
+rgument Mining, pages 113=E2=80=93123.</td>
+    <td>Biochemistry arti- cles</td>
+    <td>Determine rhetorical moves in the ar- gument structure of biomedica=
+l arti- cles</td>
+    <td>Annotated method sections of 105 text files based on a new annotati=
+on scheme for identifying the struc- tured representation of knowledge in a=
+ set of sentences describing the experimental procedures</td>
+    <td></td>
+   =20
+  </tr>
+    =20
+    <tr>
+    <td>Yufan Guo, Ilona Silins, Roi Reichart, and Anna Korhonen. 2012. <a =
+href=3D"https://www.aclweb.org/anthology/C12-3023/">Crab reader: A tool for=
+ analysis and
+visualization of argumentative zones in scientific literature. </a>In Proce=
+edings of COLING 2012: Demonstration Papers, pages 183=E2=80=93190.</td>
+    <td>Biomedical papers</td>
+    <td>Introduce a tool for analysis and visu- alizing argument structure =
+(based on AZ), and also facilitate expert AZ an- notation</td>
+    <td>Used HTML, JavaScript, PHP, XML for the annotation tool; SVM classi=
+fier using features from Guo et al. (2011)</td>
+    <td>Interactive annotation via ac- tive learning; CRAB Reader allows us=
+er to define AZ schemes; AZ can be per- formed on each word, sen- tence, pa=
+ragraph, document level</td>
+  </tr><tr>
+    <td>An Yang and Sujian Li. 2018. <a href=3D"https://www.aclweb.org/anth=
+ology/P18-2071/"> SciDTB: Discourse dependency TreeBank for scientific abst=
+racts.</a> In Proceedings of the 56th Annual Meeting of the Association for=
+ Computational Linguistics (Volume 2: Short
+Papers), pages 444=E2=80=93449, Melbourne, Australia. Association for Compu=
+tational Linguistics.</td>
+    <td>Scientific ab- stracts from ACL Anthology</td>
+    <td>Construct a domain-specific dis- course treebank annotated on scien=
+tific articles</td>
+    <td>798 segmented abstracts were la- belled by 5 annotators in 6 months=
+. 506 abstracts were annotated more than twice separately by different anno=
+tators. In total, SciDTB con- tains 798 unique abstracts with 63% labelled =
+more than once and 18,978 discourse relations.</td>
+    <td></td>
+   =20
+  </tr>=20
+ =20
+<tr>
+    <th colspan=3D"5"> <center> Automatic Argument Unit Identification</cen=
+ter> </th>
+          =20
+  </tr>
+  <tr>
+    <td>Nancy L Green. 2017b. <a href=3D"https://www.semanticscholar.org/pa=
+per/Argumentation-Mining-in-Scientific-Discourse-Green/c8c484fd332751c607fb=
+cb16847971425acb93e8"> Argumentation mining in scientific discourse. </a>In=
+ CMNA@ ICAIL, pages 7=E2=80=9313.</td>
+    <td>Biomedical, Biological articles</td>
+    <td>Argumentation extraction </td>
+    <td>Semantic rule-based approach</td>
+    <td>Demonstrates the need for
+a richer model of interargument relationships in
+biomedical/biological research articles.</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Anne Lauscher, Goran Glava=C5=A1, and Kai Eckert. 2018a. <a href=3D=
+"https://www.aclweb.org/anthology/W18-5203/">
+Arguminsci: A tool for analyzing argumentation and
+rhetorical aspects in scientific writing. </a> Association
+for Computational Linguistics.</td>
+    <td>Computer Graphics
+scientific publications</td>
+    <td>A toolkit for rhetorical analysis of
+argument component identification,
+discourse role classification, subjective aspect classification, citation
+context classification, summary relevance classification </td>
+    <td>Token-level sequence labelling, sentence-level classification using=
+ Bi-lSTM</td>
+    <td>Command-line tool, RESTful API,
+web application</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Anne Lauscher, Goran Glava=C5=A1, Simone Paolo Ponzetto,
+and Kai Eckert. 2018c. <a href=3D"https://www.aclweb.org/anthology/D18-1370=
+/">Investigating the role of argumentation in the rhetorical analysis of sc=
+ientific
+publications with neural multi-task learning models.</a>
+In Proceedings of the 2018 Conference on Empirical Methods in Natural Langu=
+age Processing, pages
+3326=E2=80=933338.</td>
+    <td>Computer Graphics
+scientific publications</td>
+    <td>Proposed two neural multi-task
+learning (MTL) models for argumentative analysis based on the
+tasks in (Lauscher et al., 2018a) </td>
+    <td>Bi-LSTM based simple MTL
+model for sentence-level classification, hierarchical MTL
+for sequence labelling</td>
+    <td>Adapted Toulmin=E2=80=99s model for
+argumentative components: Background Claim, Own Claim, Data.
+Relation between argumentative
+components: support, contradicts,
+same claim</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Simone Teufel. 2014. <a href=3D"https://www.semanticscholar.org/pap=
+er/Scientific-Argumentation-Detection-as-Intention-Teufel/5f92de2b4958a4f47=
+0885f7ac7d12f21bf4b5dcc"> Scientific argumentation detection as limited-dom=
+ain intention recognition.</a> In
+ArgNLP.</td>
+    <td>Chemistry, Computational Linguistics,
+Agriculture</td>
+    <td>Views scientific argumentation detection as limited-domain intent
+recognition</td>
+    <td>Model based on recognition of
+28 rhetorical moves in tex</td>
+    <td></td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Yufan Guo, Anna Korhonen, and Thierry Poibeau.
+2011. <a href=3D"https://www.aclweb.org/anthology/D11-1025/">A weakly-super=
+vised approach to argumentative zoning of scientific documents. </a> In Emp=
+irical
+Methods in Natural language Processing (EMNLP).</td>
+    <td>Biomedical abstracts</td>
+    <td>Investigating a weakly-supervised
+approach for AZ detection when a
+limited amount of training data is
+available </td>
+    <td>Features like location, word
+bi-gram, verb, verb cues,
+PoS, grammatical relations,
+subj/obj, voice are used with
+ASVM, ASSVM, TSVM,
+SSCRF</td>
+    <td>Conclusion that location of AZs are
+super important, directions to facilitate easy porting of AZ schemes to
+new NLP tasks and domains</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Xiangci Li, Gully Burns, and Nanyun Peng. 2019. <a href=3D"https://=
+arxiv.org/abs/1909.04758">
+Scientific discourse tagging for evidence extraction.</a>
+arXiv e-prints, pages arXiv=E2=80=931909.</td>
+    <td>Biomedical publications</td>
+    <td>Automatic evidence extraction using scientific discourse tagging
+based on classification by de Waard
+et al. (2009) </td>
+    <td>sentence-level sequential labelling using BiLSTM-CRF +
+Attention</td>
+    <td>Leveraging scientific discourse tagging for evidence fragment detec=
+tion</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Titipat Achakulvisut, Chandra Bhagavatula, Daniel
+Acuna, and Konrad Kording. 2019.<a href=3D"https://arxiv.org/abs/1907.00962=
+"> Claim extraction in biomedical publications using deep discourse model a=
+nd transfer learning. </a>arXiv preprint
+arXiv:1907.00962.</td>
+    <td>Biomedical abstracts</td>
+    <td>Automated claim extraction </td>
+    <td>Neural discourse tagging
+model based on a pre-trained
+BilSTM+CRF followed by
+transfer learning and fine
+tuning on a expert annotated
+dataset</td>
+    <td>New dataset of 1,500 expertannotated biomedical abstracts
+indicating whether the sentence
+presents a scientific claim.</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Hospice Houngbo and Robert E Mercer. 2014. <a href=3D"https://www.a=
+clweb.org/anthology/W14-2103/">  An
+automated method to build a corpus of rhetoricallyclassified sentences in b=
+iomedical texts. </a> In Proceedings of the first workshop on argumentation=
+ mining,
+pages 19=E2=80=9323.</td>
+    <td>Biomedical articles</td>
+    <td>Identify the components of IMRaD
+rhetorical structure in biomedical
+papers</td>
+    <td>Applied a few heuristics to
+construct a corpus and used
+machine learning techniques
+(Naive Bayes and SVM)
+to classify sentences into
+Method,Result or Conclusion</td>
+    <td></td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Jos=C3=A9 Mar=C3=ADa Gonz=C3=A1lez Pinto, Serkan Celik, and WolfTil=
+o Balke. 2019. <a href=3D"https://link.springer.com/chapter/10.1007/978-3-0=
+30-30760-8_4">Learning to rank claim-evidence
+pairs to assist scientific-based argumentation. </a> In International Confe=
+rence on Theory and Practice of
+Digital Libraries, pages 41=E2=80=9355. Springer.</td>
+    <td>Biomedical papers</td>
+    <td>Claim-evidence matching as a
+learning to rank problem where
+goal is to find evidence in the
+form of a paper to make a natural
+language claim appear credible; to
+assist scientific argumentation </td>
+    <td>Rhetoric Classification Task
+and Claim-Evidence Rank
+Task using NB-BoW, SVMBoW, CNN on data from
+a Wikipedia dump with
+word2vec trained on PubMed
+Central UMLS, SemMedDB
+databases</td>
+    <td>Augmenting "prestige" meta-data
+features for a paper improved performance, to rank claim-evidence
+pairs, a model should account for
+other semantic properties beyond
+simple content-matching</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Syeed Ibn Faiz and Robert E Mercer. 2014. <a href=3D"https://www.ac=
+lweb.org/anthology/W14-2114/"> Extracting
+higher order relations from biomedical text. </a>In Proceedings of the Firs=
+t Workshop on Argumentation
+Mining, pages 100=E2=80=93101.</td>
+    <td>Biomedical papers </td>
+    <td>Extraction of connections or
+=E2=80=9Chigher order relations" between
+biomedical relations (relationship
+between biomedical entities). The
+higher order relation conveys a
+causal sense, which indicates that
+the latter relation causes the earlier
+one. </td>
+    <td>In the first stage, the authors use a discourse relation
+parser to extract the explicit
+discourse relations from text.
+In the second stage, the authors analyze each extracted
+explicit discourse relation to
+determine whether it can produce a higher order relation</td>
+    <td>Pilot evaluation on AIMed corpus
+for protein-protein interaction prediction: identify the full argument
+extent which contain the biomedical entities</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <td>Antonio Jimeno Yepes, James G Mork, and Alan R
+Aronson. 2013.<a href=3D"https://www.aclweb.org/anthology/W13-1913/"> Using=
+ the argumentative structure
+of scientific literature to improve information access. </a>
+In Proceedings of the 2013 Workshop on Biomedical
+Natural Language Processing, pages 102=E2=80=93110.</td>
+    <td>MEDLINE/PubMed
+abstracts</td>
+    <td>An evaluation of several learning
+algorithms to label abstract text
+with argumentative labels, based
+on structured abstracts available in
+MEDLINE/PubMed </td>
+    <td>Naive Bayes, SVM, Logistic Legression, CRF,
+AdaBoostM1 as classifiers for
+the argumentation labels on
+abstract text. In addition to
+textual features, the position
+of the sentence or paragraph
+from the beginning of the
+abstract is used</td>
+    <td>A data set to compare and evaluate GeneRIF indexing approaches.
+The sentence annotation are: Expression, Function, Isolation, NonGeneRIF, O=
+ther, Reference, and
+Structure on MEDLINE articles.</td>
+   =20
+  </tr>
+ =20
+  <tr>
+    <th colspan=3D"5"> <center> Automatic Argument Structure Identification=
+</center> </th>
+          =20
+  </tr>
+  <tr>
+    <td>Christian Stab, Christian Kirschner, Judith EckleKohler, and Iryna =
+Gurevych. 2014.<a href=3D"http://ceur-ws.org/Vol-1341/paper5.pdf"> Argument=
+ation
+mining in persuasive essays and scientific articles
+from the discourse structure perspective.</a> In Proceedings of the Worksho=
+p on Frontiers and Connections between Argumentation Theory and Natural
+Language Processing, Forl=C3=AC-Cesena, Italy, July 21-
+25, 2014, volume 1341 of CEUR Workshop Proceedings. CEUR-WS.org.</td>
+    <td>Scientific articles I</td>
+    <td>Identification of argumentation
+structures </td>
+    <td>Argument unit identification
+and relation extraction</td>
+    <td>An evaluation dataset of 20 scientific full-texts annotated with ar=
+gument relations =E2=80=98support=E2=80=99, =E2=80=98attack=E2=80=99,
+=E2=80=98sequence=E2=80=99</td>
+   =20
+  </tr>
+   <tr>
+    <td>Val=C3=A9ria D Feltrim, Simone Teufel, Maria Gra=C3=A7as V das
+Nunes, and Sandra M Alu=C3=ADsio. 2006. <a href=3D"https://www.researchgate=
+.net/publication/226760204_Argumentative_Zoning_Applied_to_Critiquing_Novic=
+es'_Scientific_Abstracts">Argumentative zoning applied to critiquing novice=
+s=E2=80=99 scientific
+abstracts. </a>In Computing Attitude and Affect in Text:
+Theory and Applications, pages 233=E2=80=93246. Springer.</td>
+    <td>Brazilian PhD Theses</td>
+    <td>A system to detect argumentative
+structures in text </td>
+    <td>The annotation scheme has
+the following rhetorical categories: Background, Gap, Purpose, Methodology,=
+ Results,
+Conclusion and Outline. A
+Naive Bayes classifier to identify the argumentative units</td>
+    <td>Porting of Argumentative Zoning
+(AZ) from English to Portuguese. A
+pilot system to demonstrate the effectiveness of AZ for a critiquing
+tool to support academic writing</td>
+   =20
+  </tr>
+   <tr>
+    <td>Pablo Accuosto and Horacio Saggion. 2020. <a href=3D"https://www.sc=
+iencedirect.com/science/article/abs/pii/S0169023X20300446">Mining arguments=
+ in scientific abstracts with discourselevel embeddings. </a>Data &amp; Kno=
+wledge Engineering,
+129:101840.</td>
+    <td>Computational
+linguistics abstracts</td>
+    <td>Argument unit identification and relation extraction </td>
+    <td>Explore two transfer learning
+approaches in which discourse
+parsing is used as an auxiliary
+task when training argument
+mining models</td>
+    <td>Propose a new annotation schema
+and use it to augment a corpus of
+computational linguistics abstracts
+that had previously been annotated
+with discourse units and relations</td>
+   =20
+  </tr>
+   <tr>
+    <td>Ningyuan Song, Hanghang Cheng, Huimin Zhou, and
+Xiaoguang Wang. 2019. <a href=3D"https://dl.acm.org/doi/abs/10.1109/JCDL.20=
+19.00060">Argument structure mining
+in scientific articles: a comparative analysis.</a> In 2019
+ACM/IEEE Joint Conference on Digital Libraries
+(JCDL), pages 339=E2=80=93340. IEEE.</td>
+    <td>Information Science
+and Biomedical articles</td>
+    <td>Apply sequential pattern mining
+to analyse the common argument
+structure in two scientific domains
+(Information science and biomedical science) </td>
+    <td></td>
+    <td></td>
+   =20
+  </tr>
+ =20
+ =20
+<tr>
+    <th colspan=3D"5"> <center> Applications</center> </th>
+          =20
+  </tr>
+  <tr>
+    <td>Pablo Accuosto and Horacio Saggion. 2019. <a href=3D"https://www.ac=
+lweb.org/anthology/W19-4505/">Transferring knowledge from discourse to argu=
+ments: A
+case study with scientific abstracts. </a>In Stein B,
+Wachsmuth H, editors. Proceedings of the 6th Workshop on Argument Mining; 2=
+019 Aug 1; Florence,
+Italy. Stroudsburg: Association for Computational
+Linguistics; 2019. p. 41-51. ACL (Association for
+Computational Linguistics).</td>
+    <td>Computational
+Linguistics abstracts I</td>
+    <td>Leverage existing discourse parsing
+RST annotations (Stede et al., 2017)
+to identify argumentative components
+and relations </td>
+    <td>Transfer learning to improve the
+performance of argument mining
+tasks trained with a small corpus of
+60 abstracts by leveraging the discourse annotations available in the
+full SciDTB () corpus; sequence labelling task with dependency-based
+word embeddings, contextualized
+ElMo, RST encodings, GloVe</td>
+    <td>Enrich a subset of SciDTB
+with additional layer of argumentation, EDUs as minimal span for annotation=
+, pilot task to predict acceptance/rejection using automatically identified=
+ argumentative
+components and relations</td>
+   =20
+  </tr>
+   <tr>
+    <td>Danish Contractor, Yufan Guo, and Anna Korhonen.
+2012. <a href=3D"https://www.aclweb.org/anthology/C12-1041/">Using argument=
+ative zones for extractive summarization of scientific articles.</a> In Pro=
+ceedings of
+COLING 2012, pages 663=E2=80=93678.</td>
+    <td>Biomedical
+papers</td>
+    <td>Leveraging on AZ features for extractive summarization of scientifi=
+c articles</td>
+    <td>Used AZ categories as features in final sentence selection process =
++ additionally used verbs, tf-idf, citation
+and reference occurrences, locative
+features for classification to generate initial set of candidate sentences.
+Then performed k-Means cluatering to group similar sentences and
+select the centroid from each group
+to generate the summary (redundancy elimination)</td>
+    <td>Demonstrated the efficacy of
+weakly-supervised AZ classifier for less training data by
+Guo et al. (2011) for scientific
+article summary extraction</td>
+   =20
+  </tr>
+   <tr>
+    <td>Simone Teufel and Marc Moens. 2002. <a href=3D"https://www.aclweb.o=
+rg/anthology/J02-4002.pdf">Summarizing scientific articles: experiments wit=
+h relevance
+and rhetorical status.</a> Computational linguistics,
+28(4):409=E2=80=93445.</td>
+    <td>Computational
+Linguistics papers</td>
+    <td>Summarize scientific articles by concentrating on the rhetorical st=
+atus of
+statements in an article </td>
+    <td>Developed an algorithm to select
+content from articles and classify them into rhetorical categories which in=
+tegrate argumentation structure in scientific papers</td>
+    <td></td>
+   =20
+  </tr>
+   <tr>
+    <td>Val=C3=A9ria D Feltrim and Simone Teufel. 2004. <a href=3D"https://=
+www.aaai.org/Papers/Symposia/Spring/2004/SS-04-07/SS04-07-010.pdf"> Automat=
+ic
+critiquing of novices=E2=80=99 scientific writing using argumentative zonin=
+g. </a> In Proc. AAAI spring symposium
+exploring affect and attitude in text.</td>
+    <td>Brazilian PhD
+Theses in Computer Science</td>
+    <td>Integrated Argumentative Zoning into
+an automatic Critiquing Tool for Scientific Writing in Portuguese (SciPo) <=
+/td>
+    <td>Implemented a set of 7 features, derived from the 16 used by (Teufe=
+l
+and Moens, 2002), Naive Bayes as
+the classifier</td>
+    <td>Port the feature detection stage
+of AZ from English to Portuguese, a human annotation
+experiment to verify the reproducibility of the annotation
+scheme, intrinsic evaluation of
+AZ-part of SciPo</td>
+   =20
+  </tr>
+     <tr>
+    <td>Anita de Waard, S Buckingham Shum, Annamaria
+Carusi, Jack Park, Matthias Samwald, and =C3=81gnes
+S=C3=A1ndor. 2009. <a href=3D"http://oro.open.ac.uk/18563/">Hypotheses, evi=
+dence and relationships: The hyper approach for representing scientific
+knowledge claims. </a></td>
+    <td>IProduction and
+Manufacturing,
+Biomedical,
+Law/Legal</td>
+    <td>The authors present SALT (Semantically Annotated LATEX), a semantic
+authoring framework that enables the
+externalization of the argumentation
+and rhetoric captured in scientific publication=E2=80=99s content. </td>
+    <td>The annotation framework is a layered organization of three ontolog=
+ies: the Document Ontology - capturing the linear structure of the
+publication, the Rhetorical Ontology - modeling the rhetorical and
+argumentation, and the Annotation
+Ontology - linking the rhetoric and
+argumentation to the publication=E2=80=99s
+structure and content.</td>
+    <td>A LATEX and MS-Word plugin for semantic annotation of
+scientific publications as per
+SALT scheme</td>
+   =20
+  </tr>
+     <tr>
+    <td>Tudor Groza, Siegfried Handschuh, and Stefan Decker.
+2011. <a href=3D"https://link.springer.com/chapter/10.1007/978-3-642-22630-=
+4_1">Capturing rhetoric and argumentation aspects
+within scientific publications. </a>In Journal on data semantics XV, pages =
+1=E2=80=9336. Springer.</td>
+    <td></td>
+    <td>Proposal to extract knowledge from
+articles to allow the construction of
+a system where a specific scientific
+claim is connected, through trails of
+meaningful relationships, to experimental evidence. To improve access to co=
+llections of scientific papers
+represented as networks of collection
+of claims that have a defined epistemic value, with links to experimental e=
+vidence and argumentative relationships to other statements and evidence. T=
+he authors coin this conceptual approach =E2=80=98Hypotheses, Evidence
+and Relationships=E2=80=99 (HypER). </td>
+    <td></td>
+    <td></td>
+   =20
+  </tr>
+     <tr>
+    <td>Bei Yu, Jun Wang, Lu Guo, and Yingya Li. 2020. <a href=3D"https://w=
+ww.researchgate.net/publication/348347369_Measuring_Correlation-to-Causatio=
+n_Exaggeration_in_Press_Releases">
+Measuring correlation-to-causation exaggeration in
+press releases. </a> In Proceedings of the 28th International Conference on=
+ Computational Linguistics,
+pages 4860=E2=80=934872, Barcelona, Spain (Online). International Committee=
+ on Computational Linguistics.</td>
+    <td>PubMed papers
+and news articles</td>
+    <td>Study exaggeration in press releases </td>
+    <td>Developed a new corpus and trained
+models that can identify causal
+claims in the main statements in
+a press release. By comparing
+the claims made in a press release with the corresponding claims
+in the original research paper, the
+authors found that 22% of press
+releases made exaggerated causal
+claims from correlational findings
+in observational studies.</td>
+    <td></td>
+   =20
+  </tr>
+     <tr>
+    <td>Xiangci Li, Gully Burns, and Nanyun Peng. 2021.<a href=3D"https://a=
+rxiv.org/abs/1909.04758"> Scientific discourse tagging for evidence extract=
+ion. </a>In
+Proceedings of the 16th Conference of the European
+Chapter of the Association for Computational Linguistics: Main Volume, page=
+s 2550=E2=80=932562, Online.
+Association for Computational Linguistics.</td>
+    <td>Biomedical
+papers</td>
+    <td>demonstrate the benefit of leveraging scientific discourse tags for=
+ downstream tasks such as claim-extraction
+and evidence fragment detection </td>
+    <td>Develop a sentence-level sequence
+tagging model to label discourse
+types for each sentence in a paragraph</td>
+    <td></td>
+   =20
+  </tr>
+</tbody></table>
+
+
+
+</body></html>
+------MultipartBoundary--XJmChwl5e45UkLt2OAKSOjZA0hYEt2EqUPbe25K6kJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-74a0adfa-d868-421c-82ea-fc9e503d9db7@mhtml.blink
+
+@charset "utf-8";
+
+table, th, td { border: 1px solid black; border-collapse: collapse; }
+
+th, td { padding: 5px; text-align: left; }
+------MultipartBoundary--XJmChwl5e45UkLt2OAKSOjZA0hYEt2EqUPbe25K6kJ------
